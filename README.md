@@ -19,7 +19,7 @@ As the data analyst in the supply chain team who joined Atliq Mart recently. You
  - Create relevant insights that are not provided in the metric list/stakeholder meeting
  
 ## **Datasource**
-The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [codebasics.io](https://codebasics.io/event/codebasics-resume-project-challenge)
+The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [Data](https://github.com/Ben-Joan/Atliq-Mart-FMCG/tree/main/Data)
 
 ## Strategy Implemented
 To perform this task, the process involved were:
@@ -46,6 +46,14 @@ To perform this task, the process involved were:
     
  4. Creating tooltips and visuals using appropriate charts to communicate findings
 
+
+## Dashboard 📈
+The Dashboard contains two major pages
+   - Performance Summary
+
+   - Product Analysis
+     
+Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhYWVhZGItZDdhMC00NmZiLWI2Y2UtNDA3N2I3NjVjOGYyIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
 <!-- ## **Insights** -- >
 <!-- [![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)

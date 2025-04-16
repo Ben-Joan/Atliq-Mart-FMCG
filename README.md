@@ -12,27 +12,15 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Strategy Implemented 🎯 
 To perform this task, the process involved were:
 
-1.Importing data as a CSV file and creating a data model from scratch to link the tables 
-
-2. Using the appropriate data types and creating calculated columns to aid in providing more insights
-
-3. Creating Measures & calculations using DAX to track requested metrics, like;
-
-    a. DOT% - Delivery on Time
-    
-    b. DIF% - Delivery in Full
-    
-    c. OTIF% - On Time In Full
-    
-    d. Total orders and Total Orderlines
-    
-    e. LIFR% - Line Fill Rate
-    
-    f. VOFR% - Volume Fill Rate
-    
-    g. Delivery Days, etc
-    
- 4. Creating tooltips and visuals using appropriate charts to communicate findings
+    - **Data Modeling**: Importing the different CSV files containing the data and creating a data model from scratch to link the tables 
+    - **Power Query**: Cleaning and transforming data, ensuring use of appropriate data types and creating calculated columns to aid in providing more insights
+    - **Dax Measures**: Creating Measures & calculations using DAX to track requested key metrics, like;
+        - a. DOT% - Delivery on Time
+        - b. DIF% - Delivery in Full
+        - c. OTIF% - On Time In Full
+        - d. Total orders and Total Orderlines
+        - e. LIFR% - Line Fill Rate
+        -f. VOFR% - Volume Fill Rate
 
  
 ## Datasource & Dashboard 📈

@@ -12,19 +12,19 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ## Strategy Implemented 🎯 
 To perform this task, the process involved were:
 
-    -**Data Modeling**: Importing the different CSV files containing the data and creating a data model from scratch to link the tables 
+- **Data Modeling**: Importing the different CSV files containing the data and creating a data model from scratch to link the tables 
     
-    -**Power Query**: Cleaning and transforming data, ensuring use of appropriate data types and creating calculated columns to aid in providing more insights
+- **Power Query**: Cleaning and transforming data, ensuring use of appropriate data types and creating calculated columns to aid in providing more insights
     
-    -**Dax Measures**: Creating Measures & calculations using DAX to track requested key metrics, like;
-        -a. DOT% - Delivery on Time
-        -b. DIF% - Delivery in Full
-        -c. OTIF% - On Time In Full
-        -d. Total orders and Total Orderlines
-        -e. LIFR% - Line Fill Rate
-        -f. VOFR% - Volume Fill Rate
+- **Dax Measures**: Creating Measures & calculations using DAX to track requested key metrics, like;
+  - a. DOT%: Delivery on Time
+  - b. DIF%: Delivery in Full
+  - c. OTIF%: On Time In Full
+  - d. Total orders and Total Orderlines
+  - e. LIFR%: Line Fill Rate
+  - f. VOFR%: Volume Fill Rate
         
-    -**Business Intelligence**: Leveraging Power BI to develop a dynamic dashboard that helps Executives continously track and monitor business performance.
+- **Business Intelligence**: Leveraging Power BI to develop a dynamic dashboard that helps Executives continously track and monitor business performance.
 
  
 ## Datasource & Dashboard 📈

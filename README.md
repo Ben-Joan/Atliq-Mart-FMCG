@@ -1,11 +1,11 @@
 # Atliq Mart FMCG
 ![Atliq Mart](https://github.com/Ben-Joan/Atliq-Mart-FMCG/blob/main/Img/AdobeStock_604881201-scaled.jpeg)
 
-## Introduction
+## Introduction 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
 This analysis develops a dynamic dashoard to for Atliq Mart to monitor its metrics against target as wel identify where major challenges is being experienced thereby implementing strategy for managing it. 
 
-## Problem Statement
+## Problem Statement 🔎
 AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. 
 Management wants to fix this issue before expanding to other cities, therefore requested the supply chain analytics team to track the service performance by measuring ’On time’, ‘In Full’  and OnTime in full (OTIF) % delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
 

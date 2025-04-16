@@ -40,8 +40,8 @@ Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhYW
 
 ## Insights 💡
 #### Overall Performance 
-- All major KPIs i.e OT%, IF% and OTIF% for tracking delivery performance is significantly below target.
-- The order level KPIs i.e LIFR% and VOFR% are are relatively better but LIFR% requires further improvement for better customer satisfaction.
+- All major KPIs i.e **OT%, IF% and OTIF%** for tracking delivery performance is significantly below target.
+- The order level KPIs i.e **LIFR% and VOFR%** are relatively better, but **LIFR%** requires further improvement for better customer satisfaction.
 - There is no significant increase in all KPIs overtime, indicating stagnancy and no changes to improve Performance.
 
 

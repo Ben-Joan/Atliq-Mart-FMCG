@@ -23,6 +23,8 @@ To perform this task, the process involved were:
         -d. Total orders and Total Orderlines
         -e. LIFR% - Line Fill Rate
         -f. VOFR% - Volume Fill Rate
+        
+    -**Business Intelligence**: Leveraging Power BI to develop a dynamic dashboard that helps Executives continously track and monitor business performance.
 
  
 ## Datasource & Dashboard 📈

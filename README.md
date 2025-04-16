@@ -35,11 +35,9 @@ To perform this task, the process involved were:
  4. Creating tooltips and visuals using appropriate charts to communicate findings
 
  
-## Datasource
+## Datasource & Dashboard 📈
 The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [Data](https://github.com/Ben-Joan/Atliq-Mart-FMCG/tree/main/Data)
 
-
-## Dashboard 📈
 The Dashboard contains two major pages
    - Performance Summary
 

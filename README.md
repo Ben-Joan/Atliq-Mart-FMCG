@@ -9,19 +9,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
 
-## Task  
-As the data analyst in the supply chain team who joined Atliq Mart recently. You have been briefed about the the task in the stakeholder business review meeting. Now Imagine yourself play the role of the new data analyst who is excited to build this dashboard and perform the following task
-
-- Create the key metrics as required to help track business performance.
-
-- Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
-
- - Create relevant insights that are not provided in the metric list/stakeholder meeting
- 
-## **Datasource**
-The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [Data](https://github.com/Ben-Joan/Atliq-Mart-FMCG/tree/main/Data)
-
-## Strategy Implemented
+## Strategy Implemented 🎯 
 To perform this task, the process involved were:
 
 1.Importing data as a CSV file and creating a data model from scratch to link the tables 
@@ -46,6 +34,10 @@ To perform this task, the process involved were:
     
  4. Creating tooltips and visuals using appropriate charts to communicate findings
 
+ 
+## Datasource
+The data, metrics list, domain concepts, business stakeholder meetings can all be sourced on [Data](https://github.com/Ben-Joan/Atliq-Mart-FMCG/tree/main/Data)
+
 
 ## Dashboard 📈
 The Dashboard contains two major pages
@@ -55,7 +47,5 @@ The Dashboard contains two major pages
      
 Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhYWVhZGItZDdhMC00NmZiLWI2Y2UtNDA3N2I3NjVjOGYyIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
-<!-- ## **Insights** -- >
-<!-- [![Power_BI REPORT](https://img.shields.io/badge/Power_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmNmOTk1NTgtYWQ4OS00OWNkLWJiMDAtNmMxM2ZlNjNiNmVmIiwidCI6IjI5NzJkZWU0LWM2YjQtNDZiNy05NDQwLTk4ZDdiNWU5YWY5MiJ9&pageName=ReportSection51bf5bebe37e695fb7b0)
+<!-- ## Insights 💡 -- >
 
-click to view power BI dashboard -->

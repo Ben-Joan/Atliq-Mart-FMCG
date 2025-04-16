@@ -38,5 +38,23 @@ The Dashboard contains two major pages
      
 Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhYWVhZGItZDdhMC00NmZiLWI2Y2UtNDA3N2I3NjVjOGYyIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
 
-<!-- ## Insights 💡 -- >
+## Insights 💡
+#### Overall Performance 
+- All major KPIs i.e OT%, IF% and OTIF% for tracking delivery performance is significantly below target.
+- The order level KPIs i.e LIFR% and VOFR% are are relatively better but LIFR% requires further improvement for better customer satisfaction.
+- There is no significant increase in all KPIs overtime, indicating stagnancy and no changes to improve Performance.
+
+
+### City Level Performance 
+- In full delivery % is best in **Ahmedabad - 54%** and worse in **Vadodara - 52%**
+- On time delivery % is best in **Surat - 61%** and worse in **Vadodara - 58%**
+- On time in full delivery % is best in **Surat- 30%** and worse in **Vadodara - 28%**
+This Implies that Vadodara requires the most attention for improving delivery.
+
+### Customer Insights 
+The key customers that contribute to +53% of our orders are:
+- Lotus Mart, Acclaimed stores, Vijay stores, Rel fresh, Coolblue and Propel Mart.
+- Due to the poor service level, the most likely customers not renewing annual contract are: Lotus mart, Acclaimed stores and Coolblue because they experienced the most impact of poor customer service.
+
+Therefore, the supply chain director should focus on addressing this key areas to improve business delivery operations 
 

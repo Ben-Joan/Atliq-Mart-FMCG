@@ -52,9 +52,9 @@ Check out the power bi [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhYW
 This Implies that Vadodara requires the most attention for improving delivery.
 
 ### Customer Insights 
-The key customers that contribute to +53% of our orders are:
+The key customers that contribute to **+53%** of our orders are:
 - Lotus Mart, Acclaimed stores, Vijay stores, Rel fresh, Coolblue and Propel Mart.
-- Due to the poor service level, the most likely customers not renewing annual contract are: Lotus mart, Acclaimed stores and Coolblue because they experienced the most impact of poor customer service.
+- Due to the poor service level, the most likely customers not renewing annual contract are: **Lotus mart, Acclaimed stores and Coolblue** because they experienced the most impact of poor customer service.
 
 Therefore, the supply chain director should focus on addressing this key areas to improve business delivery operations 
 
